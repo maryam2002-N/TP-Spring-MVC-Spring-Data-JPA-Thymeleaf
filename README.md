@@ -1,6 +1,5 @@
 # Spring MVC Spring Data JPA Thymeleaf application
-
-## Introduction
+Ce projet consiste en une application Web JEE basée sur Spring MVC, Thymeleaf et Spring Data JPA qui permet de gérer les patients. 
 
 Spring Data JPA est un projet de Spring qui facilite l'accès aux données en utilisant la technologie JPA. Spring Data JPA fournit une interface Repository qui permet de simplifier l'accès aux données. Spring Data JPA fournit également des méthodes pour effectuer des opérations CRUD sur les données.
 ### Application de Gestion de Patients
